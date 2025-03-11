@@ -52,6 +52,12 @@ h2 {
   color: #555;
 }
 
+h3 {
+  text-align: center;
+  color: #666;
+  margin-bottom: 5px;
+}
+
 h4 {
   text-align: center;
   color: #666;
@@ -71,17 +77,4 @@ img {
   margin-right: auto;
   width: 30%;
   height: auto;
-}
-
-@media (max-width: 600px) {
-  #hub {
-    padding: 15px;
-  }
-  ul {
-    flex-direction: column;
-    text-align: center;
-  }
-  ul li {
-    margin-bottom: 10px;
-  }
 }

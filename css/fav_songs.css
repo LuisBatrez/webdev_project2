@@ -66,16 +66,3 @@ iframe {
   border-radius: 10px; 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
-
-@media (max-width: 600px) {
-  #hub {
-    padding: 15px;
-  }
-  ul {
-    flex-direction: column;
-    text-align: center;
-  }
-  ul li {
-    margin-bottom: 10px;
-  }
-}
