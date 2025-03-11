@@ -15,7 +15,7 @@ body {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
-nav ul {
+#main-nav ul {
     list-style: none;
     padding: 0;
     display: flex;
@@ -25,18 +25,28 @@ nav ul {
     border-radius: 5px;
 }
 
-nav ul li {
+#main-nav ul li {
     margin: 0 15px;
 }
 
-nav ul li a {
+#main-nav ul li a {
     text-decoration: none;
     color: white;
     font-weight: bold;
 }
 
-nav ul li a:hover {
+#main-nav ul li a:hover {
     text-decoration: underline;
+}
+
+#skills ul {
+    list-style: disc;
+    padding-left: 20px;
+    background-color: #fff;
+}
+
+#skills ul li {
+    margin-bottom: 5px;
 }
 
 h1 {
@@ -61,12 +71,4 @@ p {
     background-color: white;
 }
 
-ul {
-    list-style: disc;
-    padding-left: 20px;
-    background-color: #fff;
-}
 
-ul li {
-    margin-bottom: 5px;
-}
