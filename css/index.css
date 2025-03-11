@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #fff;
+    color: #000;
     margin: 0;
     padding: 20px;
 }
@@ -66,17 +66,4 @@ ul {
 
 ul li {
     margin-bottom: 5px;
-}
-
-@media (max-width: 600px) {
-    #hub {
-        padding: 15px;
-    }
-    ul {
-        flex-direction: column;
-        text-align: center;
-    }
-    ul li {
-        margin-bottom: 10px;
-    }
 }
