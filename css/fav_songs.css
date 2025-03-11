@@ -38,3 +38,9 @@ body {
 #main-nav ul li a:hover {
     text-decoration: underline;
 }
+
+iframe {
+    border: 5px solid #333; /* Dark border */
+    border-radius: 10px; /* Rounded edges */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow */
+}
