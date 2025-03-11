@@ -50,35 +50,35 @@ body {
 }
 
 #work-experience ul {
-    list-style: disc;
-    padding-left: 20px;
-    background-color: #fff;
+  list-style: disc;
+  padding-left: 20px;
+  background-color: #fff;
 }
 
 #work-experience ul li {
-    margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 h1 {
-    text-align: center;
-    color: #444;
+  text-align: center;
+  color: #444;
 }
 
 h2 {
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 5px;
-    color: #555;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+  color: #555;
 }
 
 h4 {
-    color: #666;
-    margin-bottom: 5px;
+  color: #666;
+  margin-bottom: 5px;
 }
 
 p {
-    font-size: 16px;
-    line-height: 1.5;
-    background-color: white;
+  font-size: 16px;
+  line-height: 1.5;
+  background-color: white;
 }
 
 
