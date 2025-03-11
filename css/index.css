@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #7851A9;
+    background-color: #fff;
     color: #000;
     margin: 0;
     padding: 20px;
@@ -64,6 +64,7 @@ p {
 ul {
     list-style: disc;
     padding-left: 20px;
+    background-color: #fff;
 }
 
 ul li {
