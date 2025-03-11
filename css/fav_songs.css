@@ -45,6 +45,7 @@ h1 {
 }
 
 h3 {
+    text-align: center;
     border-bottom: 2px solid #ddd;
     padding-bottom: 5px;
     color: #555;
@@ -57,7 +58,15 @@ p {
 }
 
 iframe {
-    border: 5px solid #333; /* Dark border */
-    border-radius: 10px; /* Rounded edges */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow */
+    border: 5px solid #333; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+#embbeded-videos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 20px 0;
 }
